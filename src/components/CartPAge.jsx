@@ -129,7 +129,7 @@ const CartPage = () => {
         <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50">
           <div className="bg-white p-6 rounded-lg shadow-lg">
             <h2 className="text-2xl font-bold mb-4">Order Placed Successfully!</h2>
-            <p>Your order has been placed. Thank you for shopping with us!</p>
+            <p>Your order has been placed. Thank you :3 !</p>
             <button
               onClick={closeOrderPopup}
               className="mt-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-300"

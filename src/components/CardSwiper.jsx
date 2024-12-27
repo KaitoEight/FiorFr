@@ -11,7 +11,7 @@ function CardSwiper() {
       name: "Tiramisu",
       description: "a classic Italian dessert featuring layers of coffee-soaked ladyfingers, mascarpone cream, and cocoa.",
       price: 1.8,
-      imageUrl: "https://instagram.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/411083282_18003716639238050_4694234553835213229_n.jpg?stp=dst-jpg_e35&cb=30a688f7-cbb0f644&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTk4eDE0OTguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fsgn5-9.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WC56U_HPiKsQ7kNvgEJzadw&_nc_gid=3d40e57604e24a099d655670656e4769&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzI1OTgwMjcyMTIzNzkzNTg4OA%3D%3D.3-ccb7-5-cb30a688f7-cbb0f644&oh=00_AYD2JZrShLYDD8DcSWIVlXQhtUXUXpq-mgBLZhqldXYr1w&oe=6757B676&_nc_sid=7a9f4b",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cQj5K0ui4Em5NWwrp7TFflQCuhaCI47QJg&s",
       dishType: "Best-seller",
     },
     {
@@ -20,7 +20,7 @@ function CardSwiper() {
       name: "Pistaschio",
       description: " a creamy Italian dessert with a rich, nutty flavor from premium pistachios",
       price: 6.99,
-      imageUrl: "https://instagram.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/387231340_914301963528024_5788097170264923692_n.jpg?stp=dst-jpg_e35&cb=30a688f7-cbb0f644&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45MDB4OTAwLnNkci5mMzA4MDguZGVmYXVsdF9pbWFnZSJ9&_nc_ht=instagram.fsgn5-5.fna.fbcdn.net&_nc_cat=100&_nc_ohc=zZXqGQpDXrUQ7kNvgFsO6zD&_nc_gid=06054b158c8f4b85b037f5d753e41556&edm=APoiHPcAAAAA&ccb=7-5&ig_cache_key=MzIwODE4NjI4NTg1NjI1OTE3NQ%3D%3D.3-ccb7-5-cb30a688f7-cbb0f644&oh=00_AYDkyksUbIvOakNQl0d9Gxs04Sw0PMmmianSdeI4YLZipQ&oe=6757AA47&_nc_sid=22de04",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DyPvDSNazQ4_B7Td5c3gUgknPMR-jNeNCg&s",
       dishType: "Best-seller",
     },
     {
@@ -29,15 +29,15 @@ function CardSwiper() {
       name: "Bluejasmine",
       description: "A combination of jasmine tea and butterfly bee colour.",
       price: 6.99,
-      imageUrl: "https://instagram.fsgn5-9.fna.fbcdn.net/v/t51.2885-15/291064821_769467897522422_3337153313939089340_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fsgn5-9.fna.fbcdn.net&_nc_cat=102&_nc_ohc=0yeUJ40zfs4Q7kNvgE6rsn8&_nc_gid=3a5adfc624d94772a6bf4e4e67cc2caa&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=Mjg3MzE4ODY4MjcxMTM5Mzk4NA%3D%3D.3-ccb7-5&oh=00_AYAbg6ZIjOK4X0WNjnH-QGRUdaLuFvoF9xRxhXwJW1w5OA&oe=6757BF8E&_nc_sid=22de04",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdItZmk6oCWG4xlmcmQkooJjiieUa4OqBlQ&s",
       dishType: "Best-seller",
     },{
       _id: "6704b78af554eb9a0879ed2d",
       id: 8,
-      name: "Pistaschio",
-      description: "A fresh salad with cucumbers, tomatoes, feta cheese, and olives.",
+      name: "Red Velvet",
+      description: "A fresh salad with Strawbery,Feta Cheese.",
       price: 6.99,
-      imageUrl: "https://instagram.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/411083282_18003716639238050_4694234553835213229_n.jpg?stp=dst-jpg_e35&cb=30a688f7-cbb0f644&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTk4eDE0OTguc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fsgn5-9.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WC56U_HPiKsQ7kNvgEJzadw&_nc_gid=3d40e57604e24a099d655670656e4769&edm=AP4sbd4AAAAA&ccb=7-5&ig_cache_key=MzI1OTgwMjcyMTIzNzkzNTg4OA%3D%3D.3-ccb7-5-cb30a688f7-cbb0f644&oh=00_AYD2JZrShLYDD8DcSWIVlXQhtUXUXpq-mgBLZhqldXYr1w&oe=6757B676&_nc_sid=7a9f4b",
+      imageUrl: "https://thekhoifoodart.com/wp-content/uploads/2023/06/fior-di-saigon0260-1-compressed-1-768x1150.jpg",
       dishType: "Best-seller",
     },
     // Add more items here...

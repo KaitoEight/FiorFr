@@ -201,3 +201,78 @@ const Food = () => {
 };
 
 export default Food;
+
+// [
+//   {
+//     "_id": "6704b78af554Qeb9a0879ed41",
+//     "id": 1,
+//     "name": "Classic Vanilla Gelato",
+//     "description": "Creamy and smooth vanilla-flavored gelato.",
+//     "price": 3,
+//     "imageUrl": "https://karenhkerr.smugmug.com/Food/Ice-Cream/i-dxcjG8V/1/M/IMG_7818-M.jpg",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed42",
+//     "id": 2,
+//     "name": "Rich Chocolate Gelato",
+//     "description": "Intense chocolate flavor with a silky texture.",
+//     "price": 3,
+//     "imageUrl": "https://cdn.chocolate-academy.com/sites/default/files/styles/paragraph_video_fallback/public/youtube-preview-qhH_uTS1Zs0-maxresdefault.jpg?itok=o3PFObsK",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed43",
+//     "id": 3,
+//     "name": "Strawberry Gelato",
+//     "description": "Refreshing strawberry gelato made with real strawberries.",
+//     "price": 3,
+//     "imageUrl": "https://th.bing.com/th/id/OIP.-GtFIZAh2RQRi-Z9Tno1dQHaEx?rs=1&pid=ImgDetMain",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed44",
+//     "id": 4,
+//     "name": "Pistachio Gelato",
+//     "description": "Smooth pistachio-flavored gelato with nutty undertones.",
+//     "price": 3,
+//     "imageUrl": "http://res.cloudinary.com/deugdt4r1/image/upload/v1733447140/amgovnwm3pkgudnt21bg.png",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed45",
+//     "id": 5,
+//     "name": "Lemon Sorbet",
+//     "description": "Refreshing lemon sorbet, perfect for summer.",
+//     "price": 3,
+//     "imageUrl": "https://example.com/images/lemon-sorbet.jpg",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed46",
+//     "id": 6,
+//     "name": "Coffee Gelato",
+//     "description": "Rich coffee-flavored gelato for coffee lovers.",
+//     "price": 3,
+//     "imageUrl": "https://example.com/images/coffee-gelato.jpg",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed47",
+//     "id": 7,
+//     "name": "Hazelnut Gelato",
+//     "description": "Creamy hazelnut-flavored gelato with roasted nuts.",
+//     "price": 3,
+//     "imageUrl": "https://example.com/images/hazelnut-gelato.jpg",
+//     "dishType": "Veg"
+//   },
+//   {
+//     "_id": "6704b78af554eb9a0879ed48",
+//     "id": 8,
+//     "name": "Mango Gelato",
+//     "description": "Exotic mango-flavored gelato made from fresh mangoes.",
+//     "price": 3,
+//     "imageUrl": "https://example.com/images/mango-gelato.jpg",
+//     "dishType": "Veg"
+//   }
+// ]

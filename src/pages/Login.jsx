@@ -12,7 +12,7 @@ const Login = () => {
 
   async function login(e) {
     e.preventDefault();
-    const response = await fetch('https://jsm-contest.onrender.com/login', {
+    const response = await fetch('https://fiorbe.onrender.com/login', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

@@ -10,7 +10,7 @@ const Register = () => {
 
   async function register(e) {
     e.preventDefault();
-    const res = await fetch('https://jsm-contest.onrender.com/register', {
+    const res = await fetch('https://fiorbe.onrender.com/register', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

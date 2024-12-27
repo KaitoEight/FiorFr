@@ -15,7 +15,7 @@ const Home = () => {
         <FeatureCards />
         <FoodSwiper />
         <CTA />
-        <Faqs />
+        {/* <Faqs /> */}
     </div>
   )
 }
